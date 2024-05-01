@@ -9,7 +9,7 @@ For this project, we selected two primary datasets: one focusing on Social Deter
 
 To build the project, we utilized MySQL as our SQL database. The front end was developed using React, while the back end was constructed with Nodejs. We incorporated the MUI JavaScript library, as well as Leaflet and Leaflet-react, which allowed us to visualize GeoJSON data on a map. These tools and technologies formed the foundation of our project, enabling us to present the information effectively and create meaningful visualizations.
 
-Check out the prototype [HERE](https://www.figma.com/file/TYet21DTYSyqbJweqhPkjv/Health-Website?type=design&node-id=0%3A1&mode=design&t=xXR83KZRjkNfCMvg-1)
+Check out the prototype [HERE](https://www.figma.com/proto/TYet21DTYSyqbJweqhPkjv/Health-Website?type=design&node-id=1-2&t=PyH3g6i8VYS01Fq2-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design)
 
 ## Getting started
 Set up your local development environment by following these steps:
