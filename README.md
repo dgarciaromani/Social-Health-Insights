@@ -9,6 +9,8 @@ For this project, we selected two primary datasets: one focusing on Social Deter
 
 To build the project, we utilized MySQL as our SQL database. The front end was developed using React, while the back end was constructed with Nodejs. We incorporated the MUI JavaScript library, as well as Leaflet and Leaflet-react, which allowed us to visualize GeoJSON data on a map. These tools and technologies formed the foundation of our project, enabling us to present the information effectively and create meaningful visualizations.
 
+Check out the prototype [HERE](https://www.figma.com/file/TYet21DTYSyqbJweqhPkjv/Health-Website?type=design&node-id=0%3A1&mode=design&t=xXR83KZRjkNfCMvg-1)
+
 ## Getting started
 Set up your local development environment by following these steps:
 1. Clone the project into local.
@@ -16,7 +18,7 @@ Set up your local development environment by following these steps:
 ```bash
 npm install
 ```
-3. Set up a local instance of MySQL 8, configure it with a username and password, and start the server. Create a new database called _"sdoh_db"_ and load [these SQL scrip files](https://drive.google.com/drive/folders/12pYgJjYe66WcObWskI8ykl3_7xLxkIgr?usp=sharing) into your local database. You should have the following schema: 
+3. Set up a local instance of MySQL 8, configure it with a username and password, and start the server. Create a new database called _"sdoh_db"_ and load [these SQL script files](https://drive.google.com/drive/folders/12pYgJjYe66WcObWskI8ykl3_7xLxkIgr?usp=sharing) into your local database. You should have the following schema: 
 ```
 sdoh_db
    label_keys
